@@ -61,7 +61,7 @@ public class Login_page extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Tahoma", 3, 25)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 102, 0));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Noor Restaurant ");
+        jLabel1.setText("Urban Table Restaurant");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 13)); // NOI18N
         jLabel2.setText("UserName:");
